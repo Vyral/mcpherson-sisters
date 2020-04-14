@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to Our Blog
-date: 2020-04-08 19:54:35
+date: 2020-04-08 19:54:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /bigstock--212534164.jpg
+youtube_alternate_image: /bigstock-Farmhouse-Entryway-Wooden-Ben-303406363.jpg
 youtube_code:
 ---
 
