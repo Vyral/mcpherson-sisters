@@ -1,18 +1,20 @@
 ---
 layout: post
-title: ' '
-date: 2020-04-16 22:13:51
+title: How Real Estate Business Is Being Done These Days
+date: 2020-04-16 22:13:00
 tags:
+  - Real Estate
 excerpt: >-
   The real estate business is continuing despite the ongoing pandemic. Here’s
   how we’re doing business these days.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2020/How+Real+Estate+Business+Is+Being+Done+These+Days.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/covid19-yt-meaghan-mcpherson.jpg
+youtube_code: UqIR2lKdQNA
 ---
 
 {% include youtube.html %}
