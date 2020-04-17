@@ -19,6 +19,6 @@ youtube_code: UqIR2lKdQNA
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>The real estate business is continuing despite the ongoing pandemic. Here’s how we’re doing business these days.</em></p>
+*The real estate business is continuing despite the ongoing pandemic. Here’s how we’re doing business these days.*
 
-The question we’ve been hearing the most from clients recently is, “How is the COVID-19 pandemic affecting real estate?” A lot of people have anxiety about their future real estate plans, which is natural. Real estate is deemed an essential business by our state, so we’re still working hard to help buyers and sellers, with their health at the forefront of our minds. We’ve been hosting FaceTime showings and open houses, and doing everything we can to help buyers and sellers in this market while also keeping them safe and healthy. To learn more, watch the video above.
+The question we’ve been hearing the most from clients recently is, “How is the COVID-19 pandemic affecting real estate?” A lot of people have anxiety about their future real estate plans, which is natural. Real estate is deemed an essential business by our state, so we’re still working hard to help buyers and sellers as we keep their health at the forefront of our minds. We’ve been hosting FaceTime showings and open houses, and doing everything we can to help buyers and sellers in this market while also keeping them safe and healthy. To learn more, watch the video above.
