@@ -1320,7 +1320,7 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #0d3025;
+  border-bottom: 2px solid #6D826E;
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
@@ -1395,7 +1395,7 @@ html[xmlns] .flexslider .slides {
     display: none;
     opacity: 0; } }
 .navbar-andross-bottom {
-  background: #0d3025;
+  background: #6D826E;
   color: #fff;
   padding: 0;
   margin: 0;
@@ -1466,12 +1466,12 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 30rem;
-  -webkit-filter: drop-shadow(0px 2px 7px #E5E5E3);
-  filter: drop-shadow(0px 2px 7px #E5E5E3); }
+  -webkit-filter: drop-shadow(0px 2px 7px #e7e8ea);
+  filter: drop-shadow(0px 2px 7px #e7e8ea); }
 
 .site-title {
   color: #718978;
-  text-shadow: 0px 2px 7px #E5E5E3;
+  text-shadow: 0px 2px 7px #e7e8ea;
   text-transform: capitalize;
   font-size: 5rem;
   padding-bottom: 4rem;
@@ -1934,7 +1934,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px #E5E5E3; }
+  text-shadow: 0px 2px 7px #e7e8ea; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1948,7 +1948,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px #E5E5E3;
+  text-shadow: 0px 2px 7px #e7e8ea;
   margin-bottom: 1rem; }
 
 .tag {
@@ -1959,7 +1959,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px #E5E5E3;
+  text-shadow: 0px 2px 7px #e7e8ea;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2337,7 +2337,7 @@ table tr, table td {
   margin: auto; }
 
 .footer {
-  background: #0d2f24;
+  background: #6d816e;
   color: #5d9bd3;
   padding: 2rem;
   text-align: center;
@@ -2577,7 +2577,7 @@ form select {
     color: #fff; }
 
 .newsletter {
-  background: #0a241c; }
+  background: #667a67; }
 
 #side-logo {
   width: 90%;
@@ -2644,8 +2644,8 @@ form select {
   max-width: 30rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px #E5E5E3);
-  filter: drop-shadow(0px 2px 7px #E5E5E3); }
+  -webkit-filter: drop-shadow(0px 2px 7px #e7e8ea);
+  filter: drop-shadow(0px 2px 7px #e7e8ea); }
 
 .page-hero-img {
   background-position: center;

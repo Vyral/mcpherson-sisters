@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The McPherson Sisters Real Estate Team - your professional Minneapolis Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>The McPherson Sisters</managingEditor>
-    <lastBuildDate>2020-04-07 12:26:22 -0500</lastBuildDate>
+    <lastBuildDate>2020-04-17 12:50:34 -0500</lastBuildDate>
     <media:copyright>The McPherson Sisters</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Minneapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,96 +25,72 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
+        <title>How Real Estate Business Is Being Done These Days</title>
+        <link>http://localhost:4000/how-real-estate-business-is-being-done-these-days.html</link>
         
           <category>Real Estate</category>
         
-          <category>Home Seller Tips</category>
-        
         <author>The McPherson Sisters</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2020-04-16 17:13:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2020/How+Real+Estate+Business+Is+Being+Done+These+Days.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+The real estate business is continuing despite the ongoing pandemic. Here’s how we’re doing business these days.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+The question we’ve been hearing the most from clients recently is, “How is the COVID-19 pandemic affecting real estate?” A lot of people have anxiety about their future real estate plans, which is natural. Real estate is deemed an essential business by our state, so we’re still working hard to help buyers and sellers as we keep their health at the forefront of our minds. We’ve been hosting FaceTime showings and open houses, and doing everything we can to help buyers and sellers in this market while also keeping them safe and healthy. To learn more, watch the video above.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2020/How+Real+Estate+Business+Is+Being+Done+These+Days.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2020/How+Real+Estate+Business+Is+Being+Done+These+Days.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>The real estate business is continuing despite the ongoing pandemic. Here’s how we’re doing business these days.</itunes:subtitle>
         <itunes:author>The McPherson Sisters</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>The real estate business is continuing despite the ongoing pandemic. Here’s how we’re doing business these days.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Minneapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
+        <title>Welcome to Our Blog</title>
+        <link>http://localhost:4000/welcome-to-our-blog.html</link>
         
           <category>Home Seller Tips</category>
         
+          <category>Home Buyer Tips</category>
+        
+          <category>Real Estate</category>
+        
+          <category>Market Update</category>
+        
         <author>The McPherson Sisters</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
+        <pubDate>2020-04-08 14:54:00 -0500</pubDate>
         <guid></guid>
-        <description>
+        <description>As real estate professionals, we know what’s happening every day in the Minneapolis area, specifically concerning home values and how these trends and developments will directly affect you. 
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Even as this ongoing pandemic is changing our market, we’re out on the front lines to make sure that those changes are communicated to you.We are considered an essential business, which we are grateful for. Therefore, we are working as hard as ever while staying safe. In fact, it is actually a great time to buy or sell your home.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Buyers have interest rates at historic lows in the 3% range. There’s a lack of inventory, so sellers don’t have much competition to go against, and home values are holding strong. Buyers who are worried they won’t find something with the lack of inventory, fear not — The McPherson Sisters Team is here. We have LOTS of creative ways to get you into your dream home. 
 
+Being a cloud - and internet-based brokerage, we have more than enough tools at our fingertips to protect our clients’ health and allow them to still buy and sell homes; Matterport 3D and live virtual tours, Facetime showings and complimentary market analysis appointments via Zoom are just to name a few.  
 
+We plan to send you two helpful messages each month to keep you updated and help you stay on top of what’s happening in the real estate market. Please do not hesitate to call or text with any questions you have for us.
 
+We are here to be your real estate experts and would be delighted to hear from you.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Check back because content will be coming soon!
 
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+We’re excited to keep you updated on what’s happening in the real estate market!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>As real estate professionals, we know what’s happening every day in the Minneapolis area, specifically concerning home values and how these trends and developments will directly affect you. 
+
+</itunes:subtitle>
         <itunes:author>The McPherson Sisters</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>As real estate professionals, we know what’s happening every day in the Minneapolis area, specifically concerning home values and how these trends and developments will directly affect you. 
+
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Minneapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
