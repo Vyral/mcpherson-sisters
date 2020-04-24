@@ -19,7 +19,7 @@ youtube_code: h73YSH0rNq8
 
 {% include youtube.html %}
 
-If you’ve been thinking about buying a new construction home, having an agent on your side is invaluable. It’s also free.
+<p style="text-align:center">If you’ve been thinking about buying a new construction home, having an agent on your side is invaluable. It’s also free.<p>
 
 Today we’re answering a very important question for homebuyers: Do you need representation when you are thinking about building a new construction home?
 
