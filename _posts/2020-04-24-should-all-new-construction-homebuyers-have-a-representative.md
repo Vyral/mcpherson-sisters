@@ -19,9 +19,9 @@ youtube_code: h73YSH0rNq8
 
 {% include youtube.html %}
 
-<p style="text-align:center">If you’ve been thinking about buying a new construction home, having an agent on your side is invaluable. It’s also free.</p>
+<p style="text-align:center"><em>If you’ve been thinking about buying a new construction home, having an agent on your side is invaluable. It’s also free.</em></p>
 
-Today we’re answering a very important question for homebuyers: Do you need representation when you are thinking about building a new construction home? While it’s not legally required, it’s certainly in your best interest to hire representation as a buyer. It actually won’t cost you any money. The agent’s commission is built into the builder’s base pricing. \*\*If you’re making one of the biggest purchases of your life, you’re going to want professional representation. \*\* The agents who work for the builder don’t have your best interests in mind, and can’t represent both parties fairly. We are actually certified new home specialists and we’ve represented the top custom home builder in the twin cities in some new developments. We learned a lot about how this business works through that experience. \*\*We learned so much working for them and are confident in our ability to represent buyers in this kind of transaction.\*\*&nbsp;
+Today we’re answering a very important question for homebuyers: Do you need representation when you are thinking about building a new construction home? While it’s not legally required, it’s certainly in your best interest to hire representation as a buyer. It actually won’t cost you any money. The agent’s commission is built into the builder’s base pricing. **If you’re making one of the biggest purchases of your life, you’re going to want professional representation.** The agents who work for the builder don’t have your best interests in mind, and can’t represent both parties fairly. We are actually certified new home specialists and we’ve represented the top custom home builder in the twin cities in some new developments. We learned a lot about how this business works through that experience. **We learned so much working for them and are confident in our ability to represent buyers in this kind of transaction.**&nbsp;
 
 {% include pullquote.html %}
 
