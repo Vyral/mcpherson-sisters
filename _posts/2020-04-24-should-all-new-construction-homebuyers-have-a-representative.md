@@ -27,7 +27,7 @@ While it’s not legally required, it’s certainly in your best interest to hir
 
 The agents who work for the builder don’t have your best interests in mind, and can’t represent both parties fairly.
 
-We are actually certified new home specialists and we’ve represented the top custom home builder in the twin cities in some new developments. We learned a lot about how this business works through that experience. **We learned so much working for them and are confident in our ability to represent buyers in this kind of transaction.**&nbsp;
+We are actually certified new home specialists and we’ve represented the top custom home builder in the Twin Cities in some new developments. We learned a lot about how this business works through that experience. **We learned so much working for them and are confident in our ability to represent buyers in this kind of transaction.**&nbsp;
 
 {% include pullquote.html %}
 
