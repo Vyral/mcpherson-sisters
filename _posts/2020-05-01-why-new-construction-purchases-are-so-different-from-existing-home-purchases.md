@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why New Construction Purchases Are So Different From Existing Home Purchases
-date: 2020-05-01 20:10:59
+date: 2020-05-01 20:10:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -19,11 +19,11 @@ youtube_code: qpEafFT9tw8
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Buying a new construction home is a great thing, but it’s not the same process as buying a resale home. Here’s how it’s different.</em></p>
+*Buying a new construction home is a great thing, but it’s not the same process as buying a resale home. Here’s how it’s different.*
 
 As promised, today we’re going to go into the nitty-gritty of why purchasing a new construction home is so different than purchasing an existing home for sale. Many times, someone will drive past a builder’s sign that says homes are starting at, for example, $600,000. What does that base price include?&nbsp;
 
-**We’ve worked with all different builders and have pretty good ideas of what’s included and what’s not.** We know how to read the base spec sheets and communicate that information to you clearly and concisely. Full disclosure: The number on the sign probably doesn’t include everything you want it to.
+**We’ve worked with all different builders and have pretty good ideas of what’s included and what’s not.** We know how to read the base spec sheets and communicate that information to you clearly and concisely. Full disclosure: The number on the sign probably doesn’t include everything.
 
 {% include pullquote.html %}
 
@@ -31,8 +31,8 @@ Another thing we’re always asked about is the down payment amount. **Typically
 
 How do you come up with that down payment? One option if you already own a home is that you can take your equity out of your current home.&nbsp;
 
-Financing options will be a little different for new construction as well, but you still have plenty of different options. **Having a professional on your side with experience in these types of homes is very important to help you weigh the decision of whether or not this is right for you.**
+Financing options will be a little different for new construction as well, but you still have plenty of options. **Having a professional on your side with experience in these types of homes is very important to help you weigh the decision of whether or not this is right for you.**
 
-If you have any questions for us about buying new construction homes or about real estate in general, don't hesitate to reach out via phone or email. We look forward to hearing from you soon.
+If you have any questions for us about buying new construction homes or real estate in general, don't hesitate to reach out via phone or email. We look forward to hearing from you soon.
 
 &nbsp;
