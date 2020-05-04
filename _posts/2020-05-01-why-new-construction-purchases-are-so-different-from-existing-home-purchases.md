@@ -29,7 +29,7 @@ As promised, today we’re going to go into the nitty-gritty of why purchasing a
 
 Another thing we’re always asked about is the down payment amount. **Typically, the builder will require you to have more skin in the game than a regular homeowner will.** They will probably require around $10,000 at the time of purchase agreement and another $15,000 at framing. Obviously, every builder varies a little bit, but if you’re putting your selections and design choices into the property and something were to happen, the builder needs to be able to recoup and sell that property. The down payment gives them that insurance.&nbsp;
 
-How do you come up with that down payment? One option if you already own a home is that you can take your equity out of your current home.&nbsp;
+How do you come up with that down payment? One option if you already own a home is to take out some equity.&nbsp;
 
 Financing options will be a little different for new construction as well, but you still have plenty of options. **Having a professional on your side with experience in these types of homes is very important to help you weigh the decision of whether or not this is right for you.**
 
