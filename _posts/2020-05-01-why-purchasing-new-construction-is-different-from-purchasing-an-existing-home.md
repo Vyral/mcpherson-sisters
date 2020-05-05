@@ -19,7 +19,7 @@ youtube_code: qpEafFT9tw8
 
 {% include youtube.html %}
 
-*Buying a new construction home is a great thing, but it’s not the same process as buying a resale home. Here’s how it’s different.*
+<p style="text-align:center">Buying a new construction home is a great thing, but it’s not the same process as buying a resale home. Here’s how it’s different.</P>
 
 As promised, today we’re going to go into the nitty-gritty of why purchasing a new construction home is so different than purchasing an existing home for sale. Many times, someone will drive past a builder’s sign that says homes are starting at, for example, $600,000. What does that base price include?&nbsp;
 
