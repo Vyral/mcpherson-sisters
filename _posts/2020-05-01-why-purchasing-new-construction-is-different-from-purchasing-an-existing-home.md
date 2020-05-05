@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why New Construction Purchases Are So Different From Existing Home Purchases
+title: Why Purchasing New Construction Is Different From Purchasing an Existing Home
 date: 2020-05-01 20:10:00
 tags:
   - Home Buyer Tips
@@ -19,7 +19,7 @@ youtube_code: qpEafFT9tw8
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Buying a new construction home is a great thing, but it’s not the same process as buying a resale home. Here’s how it’s different.</em></p>
+*Buying a new construction home is a great thing, but it’s not the same process as buying a resale home. Here’s how it’s different.*
 
 As promised, today we’re going to go into the nitty-gritty of why purchasing a new construction home is so different than purchasing an existing home for sale. Many times, someone will drive past a builder’s sign that says homes are starting at, for example, $600,000. What does that base price include?&nbsp;
 
