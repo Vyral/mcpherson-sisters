@@ -17,7 +17,7 @@ youtube_code: HiaV5IvG1_c
 
 {% include youtube.html %}
 
-Here are the five steps it takes to purchase an existing home.
+<center>Here are the five steps it takes to purchase an existing home.</center>
 
 Last time, we discussed the ins and outs of purchasing a new construction home, so today we’ll touch base on the steps it takes to purchase an existing construction home, since the two processes are different.
 
