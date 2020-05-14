@@ -17,6 +17,6 @@ youtube_code: SwhNIaHaLBw
 
 {% include youtube.html %}
 
-<p style="text-align:center">In case you’re wondering, it is a good time to sell—here’s why.</p>
+<p style="text-align:center"><em>In case you’re wondering, it is a good time to sell—here’s why.</em></p>
 
 Is now a good time to sell your home or has the coronavirus stalled our real estate market? Homeowners have been asking us this question a lot lately, and for one reason: They want to take advantage of low interest rates in order to buy their next home. Rates are projected to stay in the low 3s until the first quarter of 2021, which is amazing news. The even better news? Right now is a wonderful time to sell your home. To find out why, watch this short video above.&nbsp;
