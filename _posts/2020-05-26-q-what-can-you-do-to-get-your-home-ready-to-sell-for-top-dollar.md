@@ -19,7 +19,7 @@ youtube_code: zUuNbAHJKTg
 
 {% include youtube.html %}
 
-Here are a few key tips to help your home sell quickly and for top dollar.
+<p style="text-align:center">Here are a few key tips to help your home sell quickly and for top dollar.</p>
 
 How do you get your home ready for the market?
 
