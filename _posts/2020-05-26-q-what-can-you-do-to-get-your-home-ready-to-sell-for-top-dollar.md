@@ -23,7 +23,7 @@ youtube_code: zUuNbAHJKTg
 
 How do you get your home ready for the market?
 
-Before we answer that question, we’ll announce the winner of our recent trivia contest, where we asked our viewers to name Meagan’s favorite thing that she can never get enough of. The answer was...storage\! Congratulations to Scott Nasef, who guessed correctly and will now be receiving a Home Depot gift card.
+Before we answer that question, we’ll announce the winner of our recent trivia contest, where we asked our viewers to name Meagan’s favorite thing that she can never get enough of. The answer was... storage\! Congratulations to Scott Nasef, who guessed correctly and will now be receiving a Home Depot gift card.
 
 When getting your home ready for the market, **before you do anything else, you must declutter, depersonalize, and deep clean.** Decluttering and deep cleaning are fairly self-explanatory, but depersonalizing means taking down any family photos. You can replace them with floral arrangements or other types of black and white photos that you can find online and print at home. We know you love your family, but people need to be able to envision living in your home.&nbsp;
 
