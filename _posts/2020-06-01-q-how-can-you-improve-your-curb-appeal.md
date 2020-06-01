@@ -17,7 +17,7 @@ youtube_code: 0cSbPmdR_Po
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here are four great tips to improve your home’s curb appeal.</p>
+<p style="text-align:center"><em>Here are four great tips to improve your home’s curb appeal.</em></p>
 
 Great curb appeal ensures that your home makes a great first impression on homebuyers. If your home’s curb appeal, or the way it looks to buyers as they pull up, is lacking, **here are some things you can do to improve it:**
 
