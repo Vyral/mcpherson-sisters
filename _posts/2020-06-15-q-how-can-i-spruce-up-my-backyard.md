@@ -17,7 +17,7 @@ youtube_code: W_WxvAc9hHQ
 
 {% include youtube.html %}
 
-These four tips will help make your yard into an outdoor oasis.
+<p style="text-align:center">These four tips will help make your yard into an outdoor oasis.</p>
 
 We’re sharing some tips for sprucing up your backyard or patio space. During nice weather, this is the place where you hang out on evenings and weekends; it’s your outdoor oasis, so keep it clean and appealing with these tips:
 
@@ -29,7 +29,7 @@ We’re sharing some tips for sprucing up your backyard or patio space. During n
 
 {% include pullquote.html %}
 
-**4\. Basic maintenance.** Pull the weeds, get new mulch, mow your lawn. This may seem obvious, but some of the things we’ve seen in people’s yards are unbelievable. Also, If you have dogs, reach out to us, we know a great treat that helps with keeping their urine from yellowing the grass. They’re good for your dog’s health too\!&nbsp;
+**4\. Basic maintenance.** Pull the weeds, get new mulch, mow your lawn. This may seem obvious, but some of the things we’ve seen in people’s yards are unbelievable. Also, If you have dogs, reach out to us, we know a great treat that helps with keeping their urine from yellowing the grass. They’re good for your dog’s health too!&nbsp;
 
 Our market has been crazy lately. We’re living and breathing the real estate market every day, so we know how to help with whatever real estate needs you may have.
 
