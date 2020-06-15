@@ -17,7 +17,7 @@ youtube_code: W_WxvAc9hHQ
 
 {% include youtube.html %}
 
-<p style="text-align:center">These four tips will help make your yard into an outdoor oasis.</p>
+<p style="text-align:center"><em>These four tips will help make your yard into an outdoor oasis.</em></p>
 
 We’re sharing some tips for sprucing up your backyard or patio space. During nice weather, this is the place where you hang out on evenings and weekends; it’s your outdoor oasis, so keep it clean and appealing with these tips:
 
