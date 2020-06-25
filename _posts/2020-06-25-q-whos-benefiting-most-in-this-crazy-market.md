@@ -17,7 +17,7 @@ youtube_code: Wxvn37bDeGc
 
 {% include youtube.html %}
 
-Our real estate market couldn’t be hotter for home sellers right now.
+<p style="text-align:center">Our real estate market couldn’t be hotter for home sellers right now.</p>
 
 Our lives have been crazy this last week in the most amazing way. We wrote five offers this week and every single one was up against multiple buyers. With interest rates at record lows, buyer demand remains extremely high. Last week, we had a buyer lock in at a rate of 2.85%.&nbsp;
 
