@@ -19,7 +19,7 @@ youtube_code: 209IttwgGJA
 
 {% include youtube.html %}
 
-Here’s why buyers should consider the affordability low rates provide.
+<p style="text-align:center">Here’s why buyers should consider the affordability low rates provide.</p>
 
 How does a 3% interest rate affect your monthly mortgage payment? Well, in 1980, rates were roughly 12%. If you were to purchase a $300,000 home in 1980 with a conventional 30-year fixed rate mortgage—the standard for most homebuyers—your monthly mortgage payment would be roughly $3,250 a month (without taxes and insurance). Flash forward to 2020; if you buy a $300,000 house with a conventional 30-year fixed rate mortgage today, your monthly mortgage payment would be roughly $1,270 a month—that’s effectively $2,000 less\!&nbsp;&nbsp;
 
