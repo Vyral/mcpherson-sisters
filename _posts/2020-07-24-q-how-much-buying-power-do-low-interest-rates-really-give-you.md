@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: How Much Buying Do Low Interest Rates Really Give You?'
+title: 'Q: How Much Buying Power Do Low Interest Rates Really Give You?'
 date: 2020-07-24 16:37:45
 tags:
   - Market Update
