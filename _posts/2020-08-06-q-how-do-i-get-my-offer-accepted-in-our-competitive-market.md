@@ -17,7 +17,7 @@ youtube_code: XHkqE7aODM4
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here are the five tips to remember to help you make a competitive offer.</p>
+<p style="text-align:center"><em>Here are the five tips to remember to help you make a competitive offer.</em></p>
 
 As a buyer, how do you get your offer accepted in our competitive market? Here are five tips to remember:
 
