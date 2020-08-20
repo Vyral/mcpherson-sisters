@@ -19,7 +19,7 @@ youtube_code: H6xQv4MXrj8
 
 {% include youtube.html %}
 
-<p style="text-align:center">These seven tips will help you find the right investment property.</p>
+<p style="text-align:center"><em>These seven tips will help you find the right investment property.</em></p>
 
 Flip or flop? What makes for a great flip or investment property? Some of these tips are about buying the right property, and some are about fixing it up correctly once you purchase it.
 
@@ -39,6 +39,6 @@ Flip or flop? What makes for a great flip or investment property? Some of these 
 
 **7\. Carpet.** Carpet is cheap, it looks fantastic, and it’s warm and inviting. Again, go neutral.&nbsp;
 
-If you follow all these tips, you’ll have an excellent flip or investment property\!&nbsp;
+If you follow all these tips, you’ll have an excellent flip or investment property!&nbsp;
 
 Call or email us if you have further questions about finding the right investment property or real estate in general. We would love to speak with you.
