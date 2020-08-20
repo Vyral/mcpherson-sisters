@@ -19,7 +19,7 @@ youtube_code: H6xQv4MXrj8
 
 {% include youtube.html %}
 
-These seven tips will help you find the right investment property.
+<p style="text-align:center">These seven tips will help you find the right investment property.</p>
 
 Flip or flop? What makes for a great flip or investment property? Some of these tips are about buying the right property, and some are about fixing it up correctly once you purchase it.
 
