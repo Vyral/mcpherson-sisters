@@ -25,7 +25,7 @@ Flip or flop? What makes for a great flip or investment property? Some of these 
 
 **1\. Location.** Ask yourself if it’s in a good school district. What demographic will be buying that home? How’s the lot? Land holds value; you want future buyers to have a nice yard.&nbsp;
 
-**2\. Well maintained.** It should have an updated furnace, newer roof, and windows, etc. You don’t want to buy a house that will need to have everything replaced.&nbsp;
+**2\. Well maintained.** It should have an updated furnace, newer roof and windows, etc. You don’t want to buy a house that will need to have everything replaced.&nbsp;
 
 **3\. Comparable properties sold.** Find the worst home in the best neighborhood, as Joanna Gaines (co-star of the show “Fixer Upper”) always says. Ask yourself if this neighborhood supports the resale value after your real estate-related expenses. We will provide you with a complimentary market analysis if you find a house you’re considering. We call that after renovation value or ARV.&nbsp;
 
