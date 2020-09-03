@@ -23,9 +23,9 @@ youtube_code: fQoB8TVyzBk
 
 What’s the latest news from our Minneapolis real estate market?
 
-{% include pullquote.html %}
-
 Listings are still way down, but things are getting a bit better in the higher price points where there isn’t as much competition. **Under $350,000, though, homes are flying off of the shelves,** and there aren’t enough available for the number of buyers out there. Part of this scarcity is due to interest rates being very low. Here’s what the averages look like for different loans:
+
+{% include pullquote.html %}
 
 * 30-year fixed-rate conventional loan: 2.875%
 * 15-year fixed-rate conventional loan: 2.375%
