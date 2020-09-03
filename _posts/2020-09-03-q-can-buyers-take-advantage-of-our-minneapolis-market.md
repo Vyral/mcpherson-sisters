@@ -19,7 +19,7 @@ youtube_code: fQoB8TVyzBk
 
 {% include youtube.html %}
 
-Inventory is low in our market, as are interest rates.
+<p style="text-align:center;"><em>Inventory is low in our market, as are interest rates.</em></p>
 
 What’s the latest news from our Minneapolis real estate market?
 
