@@ -23,9 +23,9 @@ youtube_code: fQoB8TVyzBk
 
 What’s the latest news from our Minneapolis real estate market?
 
-Listings are still way down, but things are getting a bit better in the higher price points where there isn’t as much competition. **Under $350,000, though, homes are flying off of the shelves,** and there aren’t enough available for the number of buyers out there. Part of this scarcity is due to interest rates being very low. Here’s what the averages look like for different loans:
-
 {% include pullquote.html %}
+
+Listings are still way down, but things are getting a bit better in the higher price points where there isn’t as much competition. **Under $350,000, though, homes are flying off of the shelves,** and there aren’t enough available for the number of buyers out there. Part of this scarcity is due to interest rates being very low. Here’s what the averages look like for different loans:
 
 * 30-year fixed-rate conventional loan: 2.875%
 * 15-year fixed-rate conventional loan: 2.375%
@@ -33,6 +33,6 @@ Listings are still way down, but things are getting a bit better in the higher p
 * Jumbo loan: 3.5%
 * 10-year ARM jumbo loan: 3.125%
 
-That being said, if you’re a buyer who’s feeling a little discouraged, now’s the time to take advantage of these interest rates. Also, **your competition is getting more manageable because summer is wrapping up, kids are headed back to school, and families have other things to think about.** Plus, we know plenty of tips and tricks to help get your offer accepted for your dream home.&nbsp;
+That being said, if you’re a buyer who’s feeling a little discouraged, now’s the time to take advantage of these interest rates. Also, **your competition is becoming more manageable because summer is wrapping up, kids are headed back to school, and families have other things to think about.** Plus, we know plenty of tips and tricks to help get your offer accepted for your dream home.&nbsp;
 
-If you’d like to know more about our Minneapolis market or have any other real estate needs, don’t hesitate to reach out to us. We’re here to help. Also, be sure to catch our next video where we’ll be joined by Lisa Wells of CrossCountry Mortgage so she can give her thoughts on the current market.&nbsp;
+If you’d like to know more about our Minneapolis market or have any other real estate needs, don’t hesitate to reach out to us. We’re here to help. Be sure to catch our next video where we’ll be joined by Lisa Wells of CrossCountry Mortgage so she can give her thoughts on the current market.&nbsp;
