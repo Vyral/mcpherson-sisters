@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: What Should Buyers Ask Their Lenders?'
+title: 'Q: What to Look for in a Lender ?'
 date: 2020-09-03 18:42:00
 tags:
   - Market Update
