@@ -20,9 +20,7 @@ youtube_code: EN8qotfXmo8
 
 {% include youtube.html %}
 
-*Inventory is low in our market, as are interest rates.*
-
-Q: What Should Buyers Ask Their Lenders?&nbsp;
+*&lt;p style="text-align:center;"&gt;&lt;/p&gt; Inventory is low in our market, as are interest rates.*
 
 {% include pullquote.html %}
 
