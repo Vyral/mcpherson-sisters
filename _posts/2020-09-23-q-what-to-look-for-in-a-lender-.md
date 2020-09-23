@@ -37,9 +37,8 @@ Sellers aren’t just looking for the highest offer, they also want to make sure
 <div style="width: 80%; border: solid 1px #C9C9C9; padding: 20px 10px; display: block; margin: 0 auto;">
 
 <span style="color: #5c6e96; font-family: Arial, sans-serif; line-height: 50px; font-size: 100px; display: block; float: left; position: absolute;">“</span>
-<p style="text-align: center; font-size: 20px; padding: 0 10px; margin: 0 auto; font-weight: bold; color: #000;">THE PULL QUOTE NEEDS TO GO HERE</p>
-<span style="color: #5c6e96; font-family: Arial, sans-serif; line-height: 50px; font-size: 100px; display: block; float: right;">”</span>
- Ultimately, phenomenal lending professionals like Lisa do what they do because they love helping people. </div>
+<p style="text-align: center; font-size: 20px; padding: 0 10px; margin: 0 auto; font-weight: bold; color: #000;">Ultimately, phenomenal lending professionals like Lisa do what they do because they love helping people. </p>
+<span style="color: #5c6e96; font-family: Arial, sans-serif; line-height: 50px; font-size: 100px; display: block; float: right;">”</span></div>
 
 Keep in mind that **a buyer’s pre-approval is valid for 120 days.** “A lot of times, clients will say, ‘We want to lock in our interest rate,’” she said. “Well, you can’t lock in your interest rate until you actually have a purchase agreement. We lock properties, not people, so you can shop around all you want up front, but no one’s going to be able to lock you until the rubber hits the road, which is when you have an actual contract.”&nbsp;
 
