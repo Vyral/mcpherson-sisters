@@ -7,7 +7,7 @@ tags:
   - Real Estate
 excerpt: Lisa Wells with CrossCountry Mortgage shares what to look for in a lender.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2020/Q-+Can+Buyers+Take+Advantage+of+Our+Minneapolis+Market_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2020/Q-+What+Should+Buyers+Ask+Their+Lenders_.mp4
 pullquote: >-
   Ultimately, phenomenal lending professionals like Lisa do what they do because
   they love helping people.
