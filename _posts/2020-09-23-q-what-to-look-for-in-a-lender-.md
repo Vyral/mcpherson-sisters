@@ -34,6 +34,13 @@ In her initial conversations with clients, Lisa focuses on the time frame of the
 
 Sellers aren’t just looking for the highest offer, they also want to make sure that their buyer is pre-guaranteed and the offer they accept has a closing guarantee. The Lisa Wells Team at CrossCountry Mortgage, for example, has a $5,000 close-on-time guarantee; if something on their end inhibits the loan from closing on the date specified in the contract, they’ll pay the seller $5,000 for the inconvenience.&nbsp;
 
+<div style="width: 80%; border: solid 1px #C9C9C9; padding: 20px 10px; display: block; margin: 0 auto;">
+
+<span style="color: #5c6e96; font-family: Arial, sans-serif; line-height: 50px; font-size: 100px; display: block; float: left; position: absolute;">“</span>
+<p style="text-align: center; font-size: 20px; padding: 0 10px; margin: 0 auto; font-weight: bold; color: #000;">THE PULL QUOTE NEEDS TO GO HERE</p>
+<span style="color: #5c6e96; font-family: Arial, sans-serif; line-height: 50px; font-size: 100px; display: block; float: right;">”</span>
+ Ultimately, phenomenal lending professionals like Lisa do what they do because they love helping people. </div>
+
 Keep in mind that **a buyer’s pre-approval is valid for 120 days.** “A lot of times, clients will say, ‘We want to lock in our interest rate,’” she said. “Well, you can’t lock in your interest rate until you actually have a purchase agreement. We lock properties, not people, so you can shop around all you want up front, but no one’s going to be able to lock you until the rubber hits the road, which is when you have an actual contract.”&nbsp;
 
 What if you’re a homebuyer who wants to get a second opinion from your bank on interest rates, or some other variable? Will additional inquiries hurt your credit? According to Lisa, **buyers are typically safe making multiple inquiries so long as they’re all within the same two-week window, and they’re all the same type of credit inquiry (mortgage, in this case).** She actually encourages buyers to shop around for the best product and to never settle for something that it isn’t the right fit; ultimately, the best lending professionals do what they do because they love helping people.&nbsp;
