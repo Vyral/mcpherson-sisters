@@ -20,7 +20,7 @@ youtube_code: EN8qotfXmo8
 
 {% include youtube.html %}
 
-*&lt;p style="text-align:center;"&gt;&lt;/p&gt; Inventory is low in our market, as are interest rates.*
+*&lt;p style="text-align:center;"&gt; Inventory is low in our market, as are interest rates.&lt;/p&gt;*
 
 {% include pullquote.html %}
 
