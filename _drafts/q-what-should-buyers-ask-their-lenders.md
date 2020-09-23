@@ -3,7 +3,8 @@ layout: post
 title: 'Q: What to Look for in a Lender ?'
 date: 2020-09-03 18:42:00
 tags:
-  - Market Update
+  - Home Buyer Tips
+  - Real Estate
 excerpt: Lisa Wells with CrossCountry Mortgage shares what to look for in a lender.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2020/Q-+Can+Buyers+Take+Advantage+of+Our+Minneapolis+Market_.mp4
