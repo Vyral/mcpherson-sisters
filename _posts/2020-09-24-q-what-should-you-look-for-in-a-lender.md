@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Should You Look for in a Lender?'
-date: 2020-09-23 18:42:00
+date: 2020-09-24 14:42:00
 tags:
   - Home Buyer Tips
   - Real Estate
