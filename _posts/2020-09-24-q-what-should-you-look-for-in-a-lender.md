@@ -20,7 +20,7 @@ youtube_code: EN8qotfXmo8
 
 {% include youtube.html %}
 
-Lisa Wells with CrossCountry Mortgage shares what to look for in a lender.
+<p style="text-align:center;"><em>Lisa Wells with CrossCountry Mortgage shares what to look for in a lender.</em> </p>
 
 As Lisa Wells, branch manager at CrossCountry, can attest that homebuyers usually call up lenders and only ask basic questions like, “What’s your rate?” and “What’s your fee?” Those aren’t the most constructive, comprehensive questions, but people ask them because they really don’t know what type of information they should be gathering.&nbsp;
 
