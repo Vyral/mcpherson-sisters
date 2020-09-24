@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: What to Look for in a Lender ?'
+title: 'Q: What Should You Look for in a Lender?'
 date: 2020-09-23 18:42:00
 tags:
   - Home Buyer Tips
@@ -20,9 +20,7 @@ youtube_code: EN8qotfXmo8
 
 {% include youtube.html %}
 
-<p style="text-align:center;">Inventory is low in our market, as are interest rates.</p>
-
-{% include pullquote.html %}
+Lisa Wells with CrossCountry Mortgage shares what to look for in a lender.
 
 As Lisa Wells, branch manager at CrossCountry can definitely attest to, homebuyers usually call up lenders and only ask basic questions, like, “What’s your rate?” and “What’s your fee?” Those aren’t the most constructive, comprehensive questions, but people ask them because they really don’t know what type of information they should be gathering.&nbsp;
 
@@ -31,6 +29,8 @@ According to Lisa, **the No. 1 thing homebuyers should be asking a lender right 
 In her initial conversations with clients, Lisa focuses on the time frame of the financing process; right now, the market is hot, and people have to be able to act quickly. Her job is to give homebuyers the confidence of knowing that, when it comes time to make an offer on a home they love, they can afford it.
 
 **Buyers need a responsive lender and can provide a timely close in a market like this**. Lisa is the loan officer that responds to my text messages at 10 p.m. when we’re in a multiple-offer situation and I need a pre-approval letter. She can close deals within three weeks, which is relatively fast given how swamped appraisers and title companies are right now (for reference, the average closing window has been around 30 to 45 days). A loan officer who isn’t doing everything in their power to move the process along quickly can quite literally be a deal breaker.&nbsp;
+
+{% include pullquote.html %}
 
 Sellers aren’t just looking for the highest offer, they also want to make sure that their buyer is pre-guaranteed and the offer they accept has a closing guarantee. The Lisa Wells Team at CrossCountry Mortgage, for example, has a $5,000 close-on-time guarantee; if something on their end inhibits the loan from closing on the date specified in the contract, they’ll pay the seller $5,000 for the inconvenience.&nbsp;
 
