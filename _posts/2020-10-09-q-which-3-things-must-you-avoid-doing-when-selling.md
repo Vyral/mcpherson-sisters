@@ -7,7 +7,7 @@ tags:
   - Home Seller Tips
 excerpt: Avoid doing these three things when preparing your home for sale.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2020/Q-+Which+3+Things+Must+You+Avoid+Doing+When+Selling.mp4
+  https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2020/Q-+Which+3+Things+Must+You+Avoid+Doing+When+Selling+(1).mp4
 pullquote: >-
   Someone will buy your home because they like its location and layout, not
   because of the furnace.
@@ -15,12 +15,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/not-to-do-yt-meaghan-mcpherson.jpg
-youtube_code: em_YtNZT4bQ
+youtube_code: 3ga9dfulvO8
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Avoid doing these three things when preparing your home for sale.</em></p>
+*Avoid doing these three things when preparing your home for sale.*
 
 If you’re preparing your home to sell, here are the top three mistakes you must avoid:&nbsp;
 
