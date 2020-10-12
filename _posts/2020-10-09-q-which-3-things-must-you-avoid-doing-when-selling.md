@@ -20,7 +20,7 @@ youtube_code: em_YtNZT4bQ
 
 {% include youtube.html %}
 
-*Avoid doing these three things when preparing your home for sale.*
+<p style="text-align:center;"><em>Avoid doing these three things when preparing your home for sale.</em></p>
 
 If you’re preparing your home to sell, here are the top three mistakes you must avoid:&nbsp;
 
