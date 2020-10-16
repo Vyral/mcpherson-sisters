@@ -20,7 +20,7 @@ youtube_code: SHgzNAwaZ5k
 
 {% include youtube.html %}
 
-We’ve brought in an expert to explain the benefits of home staging.
+<p style="text-align:center;"><em>We’ve brought in an expert to explain the benefits of home staging</em></p>
 
 If you’re preparing your home for sale, staging plays a critical role in selling it quickly and for top dollar. With that in mind, we’ve invited professional stager Lori Shinard from Enhancing Your Home to join us today to discuss why staging is so beneficial.&nbsp;
 
