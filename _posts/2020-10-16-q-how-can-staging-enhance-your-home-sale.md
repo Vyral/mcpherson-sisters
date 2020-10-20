@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/staging-w-lori-yt-meaghan-mcpherson.jpg
-youtube_code: SHgzNAwaZ5k
+youtube_code: rtdOfVs1gn0
 ---
 
 {% include youtube.html %}
