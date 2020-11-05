@@ -17,7 +17,7 @@ youtube_code: Bebn-IJw2LE
 
 {% include youtube.html %}
 
-We’re well into fall, and our market is still breaking records.
+<p style="text-align:center;"><em>We’re well into fall, and our market is still breaking records.</em></p>
 
 In the wake of COVID-19, our urban living has really taken a hit; these days, those luxury condos aren’t as sought after as they’ve always been. That’s primarily the result of people working from home and needing more than one office and/or a decently sized yard for the kids to play around in. They also want more space between themselves and their neighbors. These urban properties are logging more days on market as many folks migrate outward to the suburbs.&nbsp;
 
