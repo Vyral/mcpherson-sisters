@@ -19,7 +19,7 @@ youtube_code: nRFYX9Ezk9w
 
 {% include youtube.html %}
 
-Here’s the scoop on two stellar new construction communities in our area.
+<p style="text-align:center;"><em>Here’s the scoop on two stellar new construction communities in our area.</em></p>
 
 Today we’re excited to talk about some new construction communities in our area that we’ve recently done some research on; one is brand-new and the other has been around for a while now, but we’re confident both will pique your interest if you haven’t yet heard about them.&nbsp;
 
