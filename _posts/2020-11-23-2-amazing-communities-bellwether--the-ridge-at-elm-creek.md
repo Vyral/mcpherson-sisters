@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
 excerpt: Here’s the scoop on two stellar new construction communities in our area.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2020/2+Amazing+Communities_+Bellwether+%26+The+Ridge+at+Elm+Creek.mp4
+  https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2020/2+Amazing+Communities_+Bellwether+%26+The+Ridge+at+Elm+Creek+(1).mp4
 pullquote: >-
   We (Jennifer and Meaghan) are certified new construction home specialists who
   love to keep a finger on the pulse of development in our area
@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/new-construction-homes-yt-meaghan-mcpherson.jpg
-youtube_code: nRFYX9Ezk9w
+youtube_code: '-731cAokCZY'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s the scoop on two stellar new construction communities in our area.</em></p>
+*Here’s the scoop on two stellar new construction communities in our area.*
 
 Today we’re excited to talk about some new construction communities in our area that we’ve recently done some research on; one is brand-new and the other has been around for a while now, but we’re confident both will pique your interest if you haven’t yet heard about them.&nbsp;
 
