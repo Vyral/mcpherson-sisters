@@ -19,7 +19,7 @@ youtube_code: nRFYX9Ezk9w
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s the scoop on two stellar new construction communities in our area.</em></p>
+*Here’s the scoop on two stellar new construction communities in our area.*
 
 Today we’re excited to talk about some new construction communities in our area that we’ve recently done some research on; one is brand-new and the other has been around for a while now, but we’re confident both will pique your interest if you haven’t yet heard about them.&nbsp;
 
@@ -29,8 +29,8 @@ The price point is a little spendy; **the Ridge at Elm Creek offers premium sing
 
 {% include pullquote.html %}
 
-Another great new construction opportunity can be found in the existing community of Bellwether by Del Webb, a division of one of the nation’s largest homebuilders: Pulte. **Bellwether offers a 55+ community with slab-on-grade or villa/rambler-style home sites and a 8,000-square-foot clubhouse.** They also have a full-home activity director, and plenty of activities/amenities to direct: an outdoor fire pit, craft rooms, shuffleboard, ping pong, and an indoor and outdoor pool. Homes here range anywhere from $350,000 to $450,000, making it surprisingly affordable to get access to these great amenities.&nbsp;
+Another great new construction opportunity can be found in the existing community of Bellwether by Del Webb, a division of one of the nation’s largest homebuilders: Pulte. **Bellwether offers a 55+ community with slab-on-grade or villa/rambler-style homesites and an 8,000-square-foot clubhouse.** They also have a full-home activity director, and plenty of activities/amenities to direct: an outdoor fire pit, craft rooms, shuffleboard, ping pong, and an indoor and outdoor pool. Homes here range anywhere from $350,000 to $450,000, making it surprisingly affordable to get access to these great amenities.&nbsp;
 
-All 393 home sites in Bellwether offer one-level living, **which makes Bellwether perfect for older folks who are looking to downsize without sacrificing a true sense of community.** An association manages everything in this community and makes sure residents stay safe; its monthly fee is just $216.&nbsp;
+All 393 homesites in Bellwether offer one-level living, **which makes Bellwether perfect for older folks who are looking to downsize without sacrificing a true sense of community.** An association manages everything in this community and makes sure residents stay safe; its monthly fee is just $216.&nbsp;
 
 We (Jennifer and Meaghan) are certified new construction home specialists who love to keep a finger on the pulse of development in our area; if the communities highlighted today appeal to you, don’t hesitate to give us a call. In the meantime, stay tuned for our next message about listing your home for sale during the holidays and how to do it effectively\!
