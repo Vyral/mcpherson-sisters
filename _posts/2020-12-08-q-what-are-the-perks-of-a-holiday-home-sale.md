@@ -19,7 +19,7 @@ youtube_code: TdTROJQgrwI
 
 {% include youtube.html %}
 
-Here’s why a holiday home sale isn’t as crazy as it seems.
+<p style="text-align:center;"><em>Here’s why a holiday home sale isn’t as crazy as it seems.</em></p>
 
 The holiday season, with all of its hubbub and to-dos, may seem like a poor time to sell a home, but here are seven reasons why now is actually a merry time to be a seller:&nbsp;
 
