@@ -19,15 +19,15 @@ youtube_code: TdTROJQgrwI
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s why a holiday home sale isn’t as crazy as it seems.</em></p>
+*Here’s why a holiday home sale isn’t as crazy as it seems.*
 
-The holiday season, with all of its hubbub and to-dos, may seem like a poor time to sell a home, but here are seven reasons why now is actually a merry time to be a seller:&nbsp;
+The holiday season, with all of its hubbub and to-dos, may seem like a poor time to sell a home, but here are seven reasons why now is a merry time to be a seller:&nbsp;
 
 **1\. There are more motivated buyers out there.** This is by far the most important reason why someone should consider listing their home during the holiday season. In the summer months, you’re likely to deal with way more looky-loos, or half-serious people who only jump on the home shopping bandwagon because it’s a fun time to explore the market. If a buyer is willing to brave the elements and work around their already jam-packed holiday calendar, they’re serious about buying your home.&nbsp;
 
 **2\. There’s less competition among sellers.** Many sellers pull their homes off of the market come winter, which means that all those serious buyers will have even less inventory to look at. Therefore, your listing has a chance to capture a larger share of the market.&nbsp;
 
-**3\. You’ll net more money now.** After the holidays, sellers jump back into the market in anticipation of the traditional spring selling season. If you wait until more homes hit the market, you’ll have to price your home even more competitively than would you right now. By selling in this season, you stand a better chance of fetching top dollar for home.&nbsp;
+**3\. You’ll net more money now.** After the holidays, sellers jump back into the market in anticipation of the traditional spring selling season. If you wait until more homes hit the market, you’ll have to price your home even more competitively than you would right now. By selling in this season, you stand a better chance of fetching top dollar.&nbsp;
 
 **4\. Decorated homes are a sentimental trigger for buyers.** Nothing puts buyers in a better mood than the warm, nostalgic sight of a home that’s embracing the holidays. Though we’re working with the shortest days of the year, your curb appeal can still shine through to a buyer’s heart; simple outside lights and a wreath go a long way. On the inside, light up your tree, turn on your fireplace, and spread the holiday cheer\!&nbsp;
 
