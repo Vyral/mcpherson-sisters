@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/gingerbread-yt-cooking-with-kathy.jpg
-youtube_code: m3X946dgqa0
+youtube_code: WScyGGe1Sdg
 ---
 
 {% include youtube.html %}
