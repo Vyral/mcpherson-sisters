@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Fav. New Construction Communities in 2021
-date: 2021-01-05 20:42:03
+date: 2021-01-05 20:42:00
 tags:
 excerpt: Here’s an overview of four new construction communities in our area.
 enclosure:
@@ -17,7 +17,9 @@ youtube_code: rgSZNKWI7U0
 
 {% include youtube.html %}
 
-<center>Here’s an overview of four new construction communities in our area.&nbsp;</center>
+<center><em>Here&rsquo;s an overview of four new construction communities in our area.&nbsp;</em></center>
+
+<center>&nbsp;</center>
 
 Hooray\! We made it past 2020, and most of us are ready to seize fresh opportunities in 2021. Let’s start the new year by talking about some awesome new construction options available to homebuyers in our market, shall we? First of all, we’re excited to tell you about **Pulte Homes’ three fantastic townhome communities.&nbsp;**
 
