@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Fav. New Construction Communities in 2021
+title: What Are the Latest New-Build Options?
 date: 2021-01-05 20:42:00
 tags:
 excerpt: Here’s an overview of four new construction communities in our area.
