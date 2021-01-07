@@ -23,7 +23,7 @@ youtube_code: rgSZNKWI7U0
 
 Hooray\! We made it past 2020, and most of us are ready to seize fresh opportunities in 2021. Let’s start the new year by talking about some awesome new construction options available to homebuyers in our market, shall we? First of all, we’re excited to tell you about **Pulte Homes’ three fantastic townhome communities.&nbsp;**
 
-The first one is Brook Park, with homes starting between $350,000 and $400,000 (lot, base price, and design selections included). Maple Grove is the second townhome community, located right by Brushcreek Elementary and a Hy-Vee store. (You’re within walking distance to the bakery, so purchase at your own risk 😋). Maple Grove is a little more expensive, with homes ranging from $375,000 to $425,000.&nbsp;
+The first one is Brook Park, with homes starting between $350,000 and $400,000 (lot, base price, and design selections included). Maple Grove is the second townhome community, located right by Brushcreek Elementary and a Hy-Vee. (You’re within walking distance to the bakery, so purchase at your own risk 😋). Maple Grove is a little more expensive, with homes ranging from $375,000 to $425,000.&nbsp;
 
 Lastly, Pulte offers the Plymouth community, which is within the Wayzata Public School District. Though Plymouth is the most expensive of the three ($400,000 to $425,000), it’s truly a beautiful community with amazing amenities and features; a luxurious open floor plan, a huge kitchen with an island, and the ability to add a sunroom or master bedroom extension make it well worth the cost.&nbsp;
 
@@ -31,7 +31,7 @@ Right now, **the earliest move-in date for any of these three Pulte townhome com
 
 {% include pullquote.html %}
 
-Next to the Plymouth townhomes, and also with the Wayzata Public Schools District is another great new construction community that we love, Westin Ridge, where you’ll find the perfect community pool. If you’ve seen our previous videos, you know we love partnering with Hanson Builders, a Minnesota-based company; they’ve teamed up once again with another highly-esteemed, locally-based builder, Robert Thomas, to bring the Westin Ridge vision to life. (If you’ve toured the Creekside community, you know **Hanson + Robert Thomas = homebuilding excellence**). Currently, their Reggie Award-winning floor plan is available for $936,000. They also have another model that just became available for $680,000, which boasts a bonus room above the garage.&nbsp;
+Next to the Plymouth townhomes, and also with the Wayzata Public Schools District is another great new construction community that we love, Westin Ridge, where you’ll find the perfect community pool. If you’ve seen our previous videos, you know we love partnering with Hanson Builders, a Minnesota-based company; they’ve teamed up once again with another highly esteemed, locally based builder, Robert Thomas, to bring the Westin Ridge vision to life. (If you’ve toured the Creekside community, you know **Hanson + Robert Thomas = homebuilding excellence**). Currently, their Reggie Award-winning floor plan is available for $936,000. They also have another model that just became available for $680,000, which boasts a bonus room above the garage.&nbsp;
 
 The finishes in the Robert Thomas model are incredible—we’re obsessed with this floor plan, and it deserves all the praise it’s been receiving\! Westin Ridge is right off of 101, and five minutes from Hy-Vee. (You’ll still have time to grab some tasty treats\!)&nbsp;&nbsp;
 
