@@ -4,15 +4,16 @@ title: What Are the Latest New-Build Options?
 date: 2021-01-05 20:42:00
 tags:
 excerpt: Here’s an overview of four new construction communities in our area.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2020/Q_+What+Are+the+Latest+New-Build+Options_.mp4
 pullquote: >-
   Lots are selling pretty quickly, so if you’re interested in getting in there
   before summertime, reach out to us now.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: rgSZNKWI7U0
+youtube_alternate_image: /uploads/const--2021-yt-meaghan-mcpherson.jpg
+youtube_code: F-sOOonQkRg
 ---
 
 {% include youtube.html %}
