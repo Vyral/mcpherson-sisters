@@ -36,7 +36,7 @@ Next to the Plymouth townhomes, also in the Wayzata School District, is another 
 
 The finishes in the Robert Thomas model are incredible—we’re obsessed with this floor plan, and it deserves all the praise it’s been receiving\! Westin Ridge is right off of 101, and five minutes from Hy-Vee. (You’ll still have time to grab some tasty treats\!)&nbsp;&nbsp;
 
-It’s clear that **new construction homebuyers have options aplenty**, but we want to make sure that everyone can enter the market as an informed and empowered consumer. That’s why we’re rolling out our Happy Hour Home-Buying Seminar via Zoom, which will be tons of fun\! We’ll be joined by John Olson, one of our go-to lenders and a phenomenal educator on finances and lending practices; his insight will help alleviate some of the stress that accompanies the new construction home-buying process.&nbsp;
+It’s clear that **new construction homebuyers have options aplenty**, but we want to make sure that everyone can enter the market as an informed and empowered consumer. That’s why we’re rolling out our Happy Hour Home-Buying Seminar via Zoom, which will be tons of fun\! We’ll be joined by Jon Olson, one of our go-to lenders and a phenomenal educator on finances and lending practices; his insight will help alleviate some of the stress that accompanies the new construction home-buying process.&nbsp;
 
 In a nutshell, this seminar will teach you how to be a competitive homebuyer in this fast-paced market. Don’t miss out on a great learning opportunity\! If you know any friends or family who are planning for a 2021 home purchase, we’d love it if you’d pass the word along and invite them to this event. It will take place on **Tuesday, January 12 at 7 p.m.&nbsp;**
 
