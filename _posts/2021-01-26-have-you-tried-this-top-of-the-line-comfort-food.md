@@ -20,4 +20,4 @@ youtube_code: Ngyz6YdWQ18
 
 <center>&nbsp;</center>
 
-For today’s episode of “Cooking With Kathy,” we’re whipping up another family favorite, and it’s top-of-the-line comfort food. The dish is called Husband’s Delight. It’s similar to a lasagna, but easier to make. All you need are some egg noodles, tomato sauce, ground beef, and a few other odds and ends and you got a tasty casserole on your hands. To find out how to craft this mouth-watering recipe, watch our latest video.
+For today’s episode of “Cooking With Kathy,” we’re whipping up another family favorite, and it’s top-of-the-line comfort food. The dish is called Husband’s Delight. It’s similar to a lasagna, but easier to make. All you need are some egg noodles, tomato sauce, ground beef, and a few other odds and ends and you have a tasty casserole on your hands. To find out how to craft this mouth-watering recipe, watch our latest video.
