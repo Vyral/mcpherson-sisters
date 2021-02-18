@@ -26,7 +26,7 @@ If you’re looking to purchase a home for the purpose of renting it out, what f
 
 **Did you know that 55% of people living in this state currently rent a home?** If you’re looking for a number to show you that there is ample demand in the rental market, then “over half the population of Minnesota” should suffice.&nbsp;
 
-On the flip side (pardon the pun), if you’re looking to buy a property, fix it up, then put it back on the market in six months or so, you’ll see a return. The amount of investors who are flipping properties has increased by 33% from 2020. They’re sensing opportunity in this year’s market—do *you* want to miss out on those enviable profits?
+On the flip side (pardon the pun), if you’re looking to buy a property, fix it up, then put it back on the market in six months or so, you’ll see a return. The number of investors who are flipping properties has increased by 33% from 2020. They’re sensing opportunity in this year’s market—do *you* want to miss out on those enviable profits?
 
 {% include pullquote.html %}
 
