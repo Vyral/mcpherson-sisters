@@ -16,7 +16,7 @@ youtube_code: gHRodN-T9A8
 
 {% include youtube.html %}
 
-<center>Join us each Thursday at 7 p.m. to learn our top home selling tips.</center>
+<center><em>Join us each Thursday at 7 p.m. to learn our top home selling tips.</em></center>
 
 <center>&nbsp;</center>
 
