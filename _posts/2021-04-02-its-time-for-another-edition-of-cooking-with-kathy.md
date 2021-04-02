@@ -37,6 +37,6 @@ It’s time for an Easter edition of “Cooking with Kathy.” This time, we’r
 
 7:20- One final check before putting the casserole dish in the oven
 
-This is a fantastic, indulgent breakfast dish that you and your family need to try. [**The full recipe is below\!**](/Recipe.pdf)
+This is a fantastic, indulgent breakfast dish that you and your family need to try. [**The full recipe is below\!**](/Recipe.pdf){: target="_blank" rel="noopener"}
 
 If you have any questions for us about real estate in the meantime, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
