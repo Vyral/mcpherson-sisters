@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Buyers Should Still Try Buying in This Market
+title: Why Buyers Should Be Buying in This Market
 date: 2021-04-12 09:42:00
 tags:
   - Home Buyer Tips
