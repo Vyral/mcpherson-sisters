@@ -32,4 +32,4 @@ Welcome back to “Cooking with Kathy.” Let’s make a delicious veggie pizza 
 
 6:05 — Closing thoughts
 
-If you have any questions about this recipe or real estate in general, give us a call. Bon appetit\!
+If you have any questions about this recipe or real estate, give us a call. Bon appetit\!
