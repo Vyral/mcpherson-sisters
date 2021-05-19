@@ -16,7 +16,7 @@ youtube_code: dPLihYpKtzY
 ---
 {% include youtube.html %}
 
-<center>High lumber prices equal high home prices. Here&rsquo;s why.</center>
+<center><em>High lumber prices equal high home prices. Here&rsquo;s why.</em></center>
 
 <center>&nbsp;</center>
 
