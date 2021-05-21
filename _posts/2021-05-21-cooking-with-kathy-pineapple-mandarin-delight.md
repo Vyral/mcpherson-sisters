@@ -16,7 +16,7 @@ youtube_code: I7fpoBzMnRw
 ---
 {% include youtube.html %}
 
-<center>Here&rsquo;s a perfect Memorial Day dessert that&rsquo;s simple and delicious.</center>
+<center><em>Here&rsquo;s a perfect Memorial Day dessert that&rsquo;s simple and delicious.</em></center>
 
 <center>&nbsp;</center>
 
