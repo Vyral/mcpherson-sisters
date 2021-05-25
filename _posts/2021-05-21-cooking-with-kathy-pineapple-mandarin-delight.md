@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Here’s a perfect Memorial Day dessert that’s simple and delicious.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2021/Cooking+With+Kathy_+Pineapple+Mandarin+Delight.mp4
+  https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2021/Cooking+With+Kathy_+Pineapple+Mandarin+Delight+(1).mp4
 pullquote: Pineapple mandarin delight is always a hit in the summer.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/pineapple-mandarin-delight-yt-cooking-with-kathy.jpg
-youtube_code: I7fpoBzMnRw
+youtube_code: FhXTn-srFNQ
 ---
 {% include youtube.html %}
 
