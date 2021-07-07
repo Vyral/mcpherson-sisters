@@ -5,7 +5,8 @@ date: 2021-07-07 09:42:00
 tags:
   - Real Estate
 excerpt: Here’s the full recipe for Kathy’s delicious pepperoni pasta salad.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2021/Pepperoni+Pasta+Salad_+One+of+Our+Favorite+Side+Dishes.mp4
 pullquote: The most important thing is to cook the pasta al dente.
 enclosure_type: video/mp4
 enclosure_time:
