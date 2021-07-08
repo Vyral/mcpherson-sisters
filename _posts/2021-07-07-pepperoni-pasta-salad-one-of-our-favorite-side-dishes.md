@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/pepperoni-past-salad-yt-cooking-with-kathy.jpg
-youtube_code: Ic0fV0PvO0M
+youtube_code: fAG2OSRVHU8
 ---
 {% include youtube.html %}
 
