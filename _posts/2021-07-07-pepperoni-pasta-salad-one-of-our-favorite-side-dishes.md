@@ -20,18 +20,18 @@ youtube_code: fAG2OSRVHU8
 
 <center>&nbsp;</center>
 
-Welcome back to another edition of Cooking With Kathy. **This time, we’re making one of our favorite side dishes: pepperoni pasta salad.** Everyone has a pasta salad recipe, but we’re making this one by special request from all of you. If you’ve had it before, you know how good it is.
+Welcome back to another edition of "Cooking With Kathy."&nbsp;**This time, we’re making one of our favorite side dishes: pepperoni pasta salad.** Everyone has a pasta salad recipe, but we’re making this one by special request from all of you. If you’ve had it before, you know how good it is.
 
-First, start by cooking two pounds of pasta. The most important thing about the recipe is to cook the noodles al dente. We use Barilla tri-color rotini pasta. The noodles should be firm but not chewy. After the pasta is cooked and cooled, we add the dressing. The dressing we use is Kraft Italian, and we pour the entire bottle in the pasta and mix it up.
+First, start by cooking two pounds of pasta. The most important thing about the recipe is to cook the noodles al dente. We use Barilla tri-color rotini pasta. The noodles should be firm but not chewy. After the pasta is cooked and cooled, we add the dressing. The dressing we use is Kraft Italian, and we pour the entire bottle into the pasta and mix it up.
 
 After the pasta is dressed, it’s time to add the McCormick Salad Supreme seasoning. **This is hard to find, but it really adds some nice spice and color to this recipe.** Put in as much as you like.
 
 {% include pullquote.html %}
 
-Next, it’s time to add the accoutrement. We add 10oz of cherry tomatoes that are washed and cut in half, and then we add one diced red pepper after removing the white flesh and seeds from the inside of the pepper. Next, we add one small diced red onion, as well as one regular 5.75 oz jar of sliced green olives with pimentos and one regular 3.8 oz can of sliced black olives.
+Next, it’s time to add the accouterment. We add 10 oz of cherry tomatoes that are washed and cut in half, and then we add one diced red pepper after removing the white flesh and seeds from the inside of the pepper. Next, we add one small diced red onion, as well as one regular 5.75 oz jar of sliced green olives with pimentos, and one regular 3.8 oz can of sliced black olives.
 
-**Once the olives are added, we add around 1.2 to 3.4 of a pound of deli pepperoni that has been cut into thin strips.** The final step is to add one large cucumber to the mix. Then cover and chill in the fridge (unless the kids can’t wait, that is)
+**Once the olives are added, we add around 1.2 to 3.4 of a pound of deli pepperoni that has been cut into thin strips.** The final step is to add one large cucumber to the mix. Then cover and chill in the fridge (unless the kids can’t wait, that is).
 
 Now you have a vibrant, bright, delicious pasta salad for your next get-together. It’s sure to be a hit and this recipe makes a ton of food for not a ton of money.
 
-If you have any questions about this recipe or about anything related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions about this recipe or anything related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
