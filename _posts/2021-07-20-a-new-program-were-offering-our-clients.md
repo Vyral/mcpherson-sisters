@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Program We Offer Our Clients
+title: A New Program We're Offering Our Clients
 date: 2021-07-20 00:00:00
 tags:
   - Home Seller Tips
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/meaghan-mcpherson-yt.jpg
-youtube_code: ZfHNM8glMlw
+youtube_code: whPtgbisKZI
 ---
 {% include youtube.html %}
 
@@ -21,6 +21,6 @@ This week we’re rolling out our Sell, Stay, and Search program. With this prog
 
 Every situation is a bit different, so **you can either have the buyer do a leaseback with you or extend the closing window**. You can sell for top dollar and stay in your home with a leaseback. Some buyers are offering sellers rent-free leasebacks. You’ll also be a competitive, non-contingent buyer when you look for your next home. Extending your closing window to 120 days also gives you plenty of time to find your next home.
 
-**Inventory levels are increasing** so don't wait to buy because interest rates will increase as well. Comps from six months ago will keep prices high as well. Take advantage of this market and the great program we’re offering.
+**Inventory levels are increasing,** so don't wait to buy because interest rates will increase as well. Comps from six months ago will keep prices high as well. Take advantage of this market and the great program we’re offering.
 
 If you guys have any questions or if you're considering selling, reach out to us. We’d love the opportunity to help you.
