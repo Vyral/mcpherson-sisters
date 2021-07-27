@@ -5,7 +5,8 @@ date: 2021-07-20 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Our clients can take advantage of our new Sell, Stay, and Search program.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2021/A+New+Program+We're+Offering+Our+Clients.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
