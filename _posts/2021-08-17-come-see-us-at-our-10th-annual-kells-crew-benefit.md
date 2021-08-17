@@ -18,7 +18,7 @@ youtube_code: UHmT7PIBovE
 ---
 {% include youtube.html %}
 
-Here’s what you need to know about our upcoming Kell’s Crew Benefit.
+<p style="text-align:center;"><em>Here’s what you need to know about our upcoming Kell’s Crew Benefit.</em></p>
 
 Our 10th annual Kell’s Crew Benefit is just around the corner, so today we’d like to talk more about this event, why we began hosting it, and how you can participate this year.
 
