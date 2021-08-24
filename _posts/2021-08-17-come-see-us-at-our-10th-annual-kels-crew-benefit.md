@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Come See Us at Our 10th Annual Kell’s Crew Benefit
+title: Come See Us at Our 10th Annual Kel’s Crew Benefit
 date: 2021-08-17 07:00:00
 tags:
   - Real Estate
-excerpt: Here’s what you need to know about our upcoming Kell’s Crew Benefit.
+excerpt: Here’s what you need to know about our upcoming Kel’s Crew Benefit.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Meaghan+McPherson/2021/Come+See+Us+at+Our+10th+Annual+Kell%E2%80%99s+Crew+Benefit.mp4
 pullquote: >-
@@ -13,14 +13,14 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /kell-s-crew-yt-meaghan-mcpherson-ss.jpg
+youtube_alternate_image: /kells-crew-yt-meaghan-mcpherson-ss.jpg
 youtube_code: UHmT7PIBovE
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s what you need to know about our upcoming Kell’s Crew Benefit.</em></p>
+*Here’s what you need to know about our upcoming Kel’s Crew Benefit.*
 
-Our 10th annual Kell’s Crew Benefit is just around the corner, so today we’d like to talk more about this event, why we began hosting it, and how you can participate this year.
+Our 10th annual Kel’s Crew Benefit is just around the corner, so today we’d like to talk more about this event, why we began hosting it, and how you can participate this year.
 
 **The benefit takes place on Saturday, September 18 at Mama G’s from 2 p.m. to 6 p.m.** We started it after our sister Kelly passed away from leukemia at 27. In addition to our benefit proceeds, we donate $100 for every closed transaction we do in our real estate business.
 
