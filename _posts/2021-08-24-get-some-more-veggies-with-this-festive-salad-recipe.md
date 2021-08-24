@@ -15,7 +15,7 @@ youtube_code: VEFEb3XaNBc
 ---
 {% include youtube.html %}
 
-*Here’s how Kathy makes her festive and delicious veggie salad.*
+<p style="text-align:center;"><em>Here’s how Kathy makes her festive and delicious veggie salad.</em></p>
 
 On this episode of Cooking With Kathy, we’re whipping up a festive, fresh, vegetable salad. **There’s no lettuce in this salad, but there are a lot of delicious, fresh vegetables** (along with a few naughty ingredients that make it a truly great side dish).&nbsp;
 
