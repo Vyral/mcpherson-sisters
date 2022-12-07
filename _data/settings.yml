@@ -15,15 +15,16 @@ client:
   title:
   license_number:
   about_markdown: |
+    McPherson Sisters Real Estate Team represents the region's finest properties with exceptional skill using the most innovative technologies currently available. We offer ultimate privacy and security, speed, and efficiency. Our years of full-time experience have given us a clear understanding of the mindset of home buyers and sellers and a thorough understanding of the regional marketplace.
   brand: The McPherson Sisters Real Estate Team
   brokerage:
   market: Minneapolis
-  address: 'Crescent Ridge Corporate Center, 10900 Wayzata Blvd #120, Minnetonka MN, 55305'
+  address: '901 Twelve Oaks Center Drive #905 Wayzata, MN 55391'
   phone: 612-440-4994
   phone_type:
   phone2:
   phone2_type:
-  email: KMJ@mcphersonsisters.com
+  email: TEAM@mcphersonsisters.com
   url:
 
 CTAs:
@@ -85,7 +86,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 30
-  hero_text: 
+  hero_text:
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
