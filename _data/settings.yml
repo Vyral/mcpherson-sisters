@@ -1,6 +1,13 @@
-audit_header: false
+meaudit_header: false
 title: McPherson Sisters Blog
-description: Our mission at The McPherson Sisters Real Estate Team is to be your best resource for Minneapolis real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The McPherson Sisters Real Estate Team, your professional Minneapolis Real Estate Agents.
+description: >-
+  Our mission at The McPherson Sisters Real Estate Team is to be your best
+  resource for Minneapolis real estate advice. Whether you are a buyer, seller,
+  or investor, our team of professionals can answer any questions you might have
+  about real estate. If you are looking to buy or sell a home, you can get all
+  the information and the latest updates, tips, and tricks from The The
+  McPherson Sisters Real Estate Team, your professional Minneapolis Real Estate
+  Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -9,13 +16,17 @@ show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
     url:
-
 client:
   name: The McPherson Sisters
   title:
   license_number:
-  about_markdown: |
-    McPherson Sisters Real Estate Team represents the region's finest properties with exceptional skill using the most innovative technologies currently available. We offer ultimate privacy and security, speed, and efficiency. Our years of full-time experience have given us a clear understanding of the mindset of home buyers and sellers and a thorough understanding of the regional marketplace.
+  about_markdown: >
+    McPherson Sisters Real Estate Team represents the region's finest properties
+    with exceptional skill using the most innovative technologies currently
+    available. We offer ultimate privacy and security, speed, and efficiency.
+    Our years of full-time experience have given us a clear understanding of the
+    mindset of home buyers and sellers and a thorough understanding of the
+    regional marketplace.
   brand: The McPherson Sisters Real Estate Team
   brokerage:
   market: Minneapolis
@@ -26,27 +37,25 @@ client:
   phone2_type:
   email: TEAM@mcphersonsisters.com
   url:
-
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your Minneapolis Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
+    CTA_title: What’s Your Minneapolis Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
     CTA_url: /homevalue/
-
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a Minneapolis Home?"
-    CTA_text2: "Search the entire MLS for your Minneapolis home."
-    CTA_link_text2: "Search the MLS"
+    CTA_title2: Looking for a Minneapolis Home?
+    CTA_text2: Search the entire MLS for your Minneapolis home.
+    CTA_link_text2: Search the MLS
     CTA_url2: /homesearch/
-
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -59,10 +68,10 @@ lender:
   phone:
   email:
   url:
-
 socials:
   review_sm_icons: false
-  facebook_url: https://business.facebook.com/mcphersonsistersrealestate/?business_id=10153283000255325
+  facebook_url: >-
+    https://business.facebook.com/mcphersonsistersrealestate/?business_id=10153283000255325
   linkedin_url: https://www.linkedin.com/in/meaghan-mcpherson-776048173/
   youtube_url:
   twitter_url:
@@ -71,17 +80,27 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url: https://podcasts.apple.com/us/podcast/minneapolis-real-estate-podcast-mcpherson-sisters/id1532094366
-
+  podcast_url: >-
+    https://podcasts.apple.com/us/podcast/minneapolis-real-estate-podcast-mcpherson-sisters/id1532094366
 podcast:
-  title: 'Minneapolis Real Estate Podcast with The McPherson Sisters'
+  title: Minneapolis Real Estate Podcast with The McPherson Sisters
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Minneapolis Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The McPherson Sisters Real Estate Team - your professional Minneapolis Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Minneapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'The McPherson Sisters'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the
+    Minneapolis Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from The McPherson Sisters Real Estate Team
+    - your professional Minneapolis Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Minneapolis,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: The McPherson Sisters
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
@@ -92,7 +111,6 @@ images:
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
-
 site_colors:
   brand_color: '#cfa48d'
   theme_color: '#6D826E'
@@ -100,13 +118,11 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
   shadow_color: '#e7e8ea'
-
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -115,5 +131,5 @@ buttons:
   button_background_color: transparent
   button_text_color: '#718978'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
