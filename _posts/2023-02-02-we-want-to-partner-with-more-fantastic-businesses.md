@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/mcpherson-sisters-yt-2.jpg
-youtube_code: sJUZOPfT78s
+youtube_code: sJUZOPfT78
 ---
 {% include youtube.html %}
 
