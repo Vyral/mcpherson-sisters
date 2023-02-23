@@ -7,18 +7,18 @@ tags:
   - Real Estate
 excerpt: 'Here’s what you need to know about listing your property off-market. '
 enclosure:
-pullquote: 'Listing off-market lets you skip all the hassle of a sale. '
+pullquote: Listing off-market lets you skip all the hassle of a sale.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/mcpherson-sisters-yt-3.jpg
-youtube_code: GuK4n6Xh67I
+youtube_code: 7N-uwlPfLbo
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-Are you sick of looking for a house on the open market? If you are, maybe it’s time to begin considering off-market properties. Off-market properties have benefits for both buyers and sellers, so we’re breaking them down before you make your decision.&nbsp;
+Are you sick of looking for a house on the open market? If you are, maybe it’s time to begin considering off-market properties. Off-market properties have benefits for both buyers and sellers, so we’re breaking them down today to help you make your decision.&nbsp;
 
 The biggest pro of off-market properties is that you don’t have to do the heavy lifting of looking for a home. One of the main reasons we joined our brokerage three years ago was because they offered amazing benefits to our clients, including off-market properties.&nbsp;
 
