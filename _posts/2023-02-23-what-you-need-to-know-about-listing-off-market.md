@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What You Need To Know About Listing Off-Market
+title: What You Need To Know About Buying or Selling Off-Market
 date: 2023-02-23 00:00:00
 tags:
   - Home Seller Tips
