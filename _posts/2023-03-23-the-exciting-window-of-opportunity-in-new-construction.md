@@ -1,6 +1,8 @@
 ---
 layout: post
-title: The Exciting Window of Opportunity in New Construction
+title: >-
+  There Is Opportunity in Every Market. Don’t Miss the Window With New
+  Construction
 date: 2023-03-23 00:00:00
 tags:
   - Real Estate
