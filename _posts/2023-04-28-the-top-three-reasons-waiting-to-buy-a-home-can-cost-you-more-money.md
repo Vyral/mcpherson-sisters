@@ -13,7 +13,7 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/mcpherson-sisters-yt-7.jpg
 youtube_code: CidQnReDgc8
 ---
-![](/uploads/cost-of-waiting-analysis-page-2-1.png){: width="1588" height="1672"}{% include youtube.html %}
+{% include youtube.html %}
 
 {% include excerpt.html %}
 
