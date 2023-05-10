@@ -25,7 +25,7 @@ The main reason for this is our low inventory levels. Currently, **our market on
 
 The second reason is that **we expect sales prices to continue increasing over th next few months and into next year due to the low inventory.** In fact, homes should be 8% more expensive next year. Even if interest rates are lower next year, the increased purchase price would make it more expensive to wait.
 
-[Click here to view the Cost of Waiting Analysis](https://emma-assets.s3.amazonaws.com/20afb/0c22e434e5184cf7e106947ac36280c7/Cost_Of_Waiting_Analysis_-_.pdf){: target="_blank" rel="noopener"}
+[Click here to view the Cost of Waiting Analysis](https://emma-assets.s3.amazonaws.com/20afb/0c22e434e5184cf7e106947ac36280c7/Cost_Of_Waiting_Analysis_-_.pdf){: .apply-now target="_blank"}
 
 ![](/uploads/1.png){: width="1414" height="1469"}
 
