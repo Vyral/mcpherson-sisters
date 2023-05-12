@@ -64,8 +64,7 @@ img.one {
 </head>
 <body>
 
-<p>Original image:</p>
-<img class="one" src="https://emma-assets.s3.amazonaws.com/20afb/9812251ff62dcede12b7c0b1c7060d2e/1.png" width="300" height="300"><br>
+<img class="one" src="https://emma-assets.s3.amazonaws.com/20afb/9812251ff62dcede12b7c0b1c7060d2e/1.png" width="auto" height="auto"><br>
 
 </body>
 </html>
