@@ -48,9 +48,10 @@ The second reason is that **we expect sales prices to continue increasing over t
   </body>
 </html>
 
-<img src="https://emma-assets.s3.amazonaws.com/20afb/9812251ff62dcede12b7c0b1c7060d2e/1.png" 
+img { src="https://emma-assets.s3.amazonaws.com/20afb/9812251ff62dcede12b7c0b1c7060d2e/1.png" 
      width: 400px
-     height: auto />
+     height: auto
+     }
 
 ![](/uploads/1.png){: width="1414" height="1469"}
 
