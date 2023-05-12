@@ -48,30 +48,9 @@ The second reason is that **we expect sales prices to continue increasing over t
   </body>
 </html>
 
-<html>
-<head>
-<style>
-html, body {
-  height: 100%;
-}
+![](/uploads/1.png){: width="auto" height="auto"}
 
-img.one {
-  height: auto;
-  width: auto;
-
-}
-</style>
-</head>
-<body>
-
-<img class="one" src="https://emma-assets.s3.amazonaws.com/20afb/9812251ff62dcede12b7c0b1c7060d2e/1.png" width="auto" height="auto"><br>
-
-</body>
-</html>
-
-![](/uploads/1.png){: width="1414" height="1469"}
-
-![](/uploads/cost-of-waiting-analysis-page-2-1.png){: width="1588" height="1672"}
+![](/uploads/cost-of-waiting-analysis-page-2-1.png){: width="auto" height="auto"}
 
 The third reason waiting can cost you more money is that **our partner lenders are currently offering an excellent lending solution.** Although interest rates are historically low, some people are still hesitant to buy because they're worried about rates rising. However, our lenders are offering a 2-1 buydown with a free refinance before year three. This significantly reduces your monthly mortgage payment for the first two years and allows you to take advantage of lower rates later.
 
