@@ -25,11 +25,9 @@ The main reason for this is our low inventory levels. Currently, **our market on
 
 The second reason is that **we expect sales prices to continue increasing over th next few months and into next year due to the low inventory.** In fact, homes should be 8% more expensive next year. Even if interest rates are lower next year, the increased purchase price would make it more expensive to wait.
 
-<html>
-  <head>
-    <title>View the Cost of Waiting Here</title>
-    <style>
-      .button {
+<title></title>
+
+<style type="text/css">.button {
         background-color: #CFA48D;
         border: none;
         color: white;
@@ -40,17 +38,9 @@ The second reason is that **we expect sales prices to continue increasing over t
         font-size: 20px;
         margin: 4px 2px;
         cursor: pointer;
-      }
-    </style>
-  </head>
-  <body>
-    <a href="https://emma-assets.s3.amazonaws.com/20afb/0c22e434e5184cf7e106947ac36280c7/Cost_Of_Waiting_Analysis_-_.pdf" class="button">View the Cost of Waiting Here</a>
-  </body>
-</html>
+      }</style>
 
-![](/uploads/1.png){: width="auto" height="auto"}
-
-![](/uploads/cost-of-waiting-analysis-page-2-1.png){: width="auto" height="auto"}
+[View the Cost of Waiting Here](https://emma-assets.s3.amazonaws.com/20afb/0c22e434e5184cf7e106947ac36280c7/Cost_Of_Waiting_Analysis_-_.pdf){: .button}
 
 The third reason waiting can cost you more money is that **our partner lenders are currently offering an excellent lending solution.** Although interest rates are historically low, some people are still hesitant to buy because they're worried about rates rising. However, our lenders are offering a 2-1 buydown with a free refinance before year three. This significantly reduces your monthly mortgage payment for the first two years and allows you to take advantage of lower rates later.
 
