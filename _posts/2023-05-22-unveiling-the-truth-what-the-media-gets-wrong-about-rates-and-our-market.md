@@ -17,7 +17,7 @@ youtube_code: T9KmM1DTS54
 
 {% include excerpt.html %}
 
-Today, we’re to talk about what's happening in the media and what we're seeing on the news. A lot of people have been asking questions, and there are a few important things we need to clear up.&nbsp;
+Today, we’re going to talk about what's happening in the media and what we're seeing on the news. A lot of people have been asking questions, and there are a few important things we need to clear up.&nbsp;
 
 One of the biggest media misconceptions right now is about what Freddie Mac and Fannie Mae just passed about loan level price adjustments (LLPAs). **The media is painting the picture that you’ll get a worse interest rate if you have a good credit score, which is completely false.** Do not purposely tank your credit score if you plan on purchasing a home this year. If you have a good credit score, you're still getting a better interest rate than someone who has a lower one.&nbsp;
 
