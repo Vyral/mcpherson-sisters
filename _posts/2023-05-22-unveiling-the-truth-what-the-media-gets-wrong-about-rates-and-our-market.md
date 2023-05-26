@@ -10,7 +10,7 @@ pullquote: The truth is that the market is stabilizing.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/mcpherson-sisters-yt-8.jpg
+youtube_alternate_image: /uploads/mcpherson-sisters-yt-9.jpg
 youtube_code: T9KmM1DTS54
 ---
 {% include youtube.html %}
