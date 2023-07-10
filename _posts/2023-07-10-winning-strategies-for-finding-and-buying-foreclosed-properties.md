@@ -27,4 +27,4 @@ However, buying a foreclosure can be a complex process and sometimes more diffic
 
 **3\. Inspect the home thoroughly.** Foreclosed homes are usually sold as-is, which means that the seller is not responsible for any repairs or issues with the property. To avoid any unpleasant surprises, have a professional home inspector take a look at the property before you make an offer. If the inspector finds any issues, you can use this information to negotiate a lower price or to decide whether or not to move forward with the purchase.
 
-With careful planning and research, buyers can find a great deal on a foreclosed property and potentially turn it into a profitable investment. If you need any help buying one, call or email me anytime. I’d be happy to help you!
+With careful planning and research, buyers can find a great deal on a foreclosed property and potentially turn it into a profitable investment. If you need any help buying one, call or email us anytime. We’d be happy to help you!
