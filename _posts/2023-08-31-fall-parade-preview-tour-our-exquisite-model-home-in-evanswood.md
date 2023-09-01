@@ -27,7 +27,7 @@ Standing tall in its glory, our model home is the epitome of elegance and modern
 
 Diversity is the hallmark of Evanswood. With an array of distinctive floorplans to choose from, you'll find the perfect fit for your lifestyle and preferences. Prices for these exceptional homes start at a competitive $850, offering you a chance to embrace the luxury of Maple Grove living.
 
-Mark your calendars because we're excited to welcome you during the Fall Parade. Our doors will be open from **Thursday to Sunday, 12 PM to 6 PM.** You can find us at 10100 Penny Lane North in Maple Grove. And who knows, we might even be serving up pumpkin spice lattes to add that extra touch of warmth to your visit.
+Mark your calendars because we're excited to welcome you during the Fall Parade. Our doors will be opened from **Thursday to Sunday, 12 PM to 6 PM.** You can find us at 10100 Penny Lane North in Maple Grove. And who knows, we might even be serving up pumpkin spice lattes to add that extra touch of warmth to your visit.
 
 While our partnership with Stone Gate Builders is a thrilling new chapter, we want you to know that our commitment to serving your real estate needs remains steadfast. We're still dedicated to assisting you with existing homes and exploring opportunities that align with your goals.
 
