@@ -19,7 +19,7 @@ youtube_code: 2UqA8u7kALs
 
 We're thrilled to share an incredible opportunity that has us bursting with excitement. Join us as we take you on a journey to our brand-new construction model home nestled in the heart of Evanswood, Maple Grove.
 
-Evanswood is an exquisite community that has us absolutely captivated. We're beyond thrilled to announce that we've partnered with the renowned builder Stonegate to bring you this exceptional opportunity. If you're searching for a new home in Minnesota, look no further.
+Evanswood is an stunning community that has us absolutely captivated. We're beyond thrilled to announce that we've partnered with the renowned builder Stonegate to bring you this exceptional opportunity. If you're searching for a new home in Minnesota, look no further.
 
 Standing tall in its glory, our model home is the epitome of elegance and modern design. As we prepare for the upcoming Fall Parade, we invite you to step into our space and experience the marvel that is parade number 78 Stonegate Builders. Stonegate, a division of the esteemed Garnier Homes, has crafted this community with the utmost care and precision.
 
