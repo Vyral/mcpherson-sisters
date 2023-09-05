@@ -21,7 +21,7 @@ We're thrilled to share an incredible opportunity that has us bursting with exci
 
 Evanswood is an stunning community that has us absolutely captivated. We're beyond thrilled to announce that we've partnered with the renowned builder Stonegate to bring you this exceptional opportunity. If you're searching for a new home in Minnesota, look no further.
 
-Standing tall in its glory, our model home is the epitome of elegance and modern design. As we prepare for the upcoming Fall Parade, we invite you to step into our space and experience the marvel that is parade number 78 Stonegate Builders. Stonegate, a division of the esteemed Garnier Homes, has crafted this community with the utmost care and precision.
+Standing tall in its glory, our model home is the epitome of elegance and modern design. As we prepare for the upcoming Fall Parade, we invite you to step into our space and experience the marvel that is parade number 78 Stonegate Builders. Stonegate, a division of the esteemed Gonyea Homes, has crafted this community with the utmost care and precision.
 
 {% include pullquote.html %}
 
