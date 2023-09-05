@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fall Parade Preview: Tour Our Exquisite Model Home in Evanswood'
+title: 'Fall Parade Preview: Tour Our Stunning Model Home in Evanswood'
 date: 2023-08-31 00:00:00
 tags:
   - Home Buyer Tips
