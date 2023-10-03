@@ -24,7 +24,7 @@ youtube_code: b40W8sbtuYg
 
 Today, we are discussing the new construction process, prompted by a significant client acquisition yesterday.&nbsp;
 
-Our client secured a remarkable deal with a 5.25% interest rate for a 30-year term and a $20,000 design incentive. Essentially, the builder is contributing 6% towards closing costs, alongside the $20,000 in design center upgrades. This was a massive win for our clients who initially didn't believe they could afford this community.
+Our client secured a remarkable deal with a 5.25% interest rate for a 30-year term and a $20,000 design incentive. Essentially, the builder is contributing 6% towards closing costs, alongside the $20,000 in design center upgrades. This was a massive win for our clients, who initially didn't believe they could afford this community.
 
 **We believe there are often missed opportunities in our market due to fears about interest rates, the new construction process, and down payments.** The key is to explore these options, ask questions, and see if they align with your goals.
 
