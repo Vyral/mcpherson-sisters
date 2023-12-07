@@ -6,6 +6,7 @@ tags:
   - Model home
   - New home
   - Luxury home
+  - Home Buyer Tips
 excerpt: 'We’re touring a beautiful model home you need to see for yourself. '
 enclosure:
 pullquote:
